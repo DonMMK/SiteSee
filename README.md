@@ -1,10 +1,10 @@
 # SiteSee
 
 #### Confidential and Intellectual Property agreement
-- As agreed by the Confidentiality agreement
+- As agreed by the Confidentiality agreement  
 ![Screen Shot 2022-02-12 at 8 11 57 am](https://user-images.githubusercontent.com/71302996/153677443-0cfe239e-e53f-47d7-b13a-4ea04fe9d15a.png)
 
-- As agreed by the Intellectual Property
+- As agreed by the Intellectual Property  
 ![Screen Shot 2022-02-12 at 8 12 32 am](https://user-images.githubusercontent.com/71302996/153677619-1c25fee2-abb9-43c2-8b5b-41278ec58c05.png)
 
 
